@@ -1,0 +1,7 @@
+
+*.txt
+build/classes/.netbeans_automatic_build
+*.class
+build/classes/.netbeans_update_resources
+*.txt
+APDescription.txt
