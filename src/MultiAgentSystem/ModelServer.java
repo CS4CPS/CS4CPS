@@ -148,7 +148,7 @@ public class ModelServer extends ModelIED {
         FaultDelay = 100;
         FaultBase = 0.01;
         FaultRate = 0.1;
-        syn = 1;
+        syn = 0;
         pagecnt = 0;
     }
     
